@@ -1,16 +1,24 @@
-# minimal_weather_app
+# 🌦️ Minimal Weather App
 
-Minimal Weather App.
+A clean and lightweight weather app built using **Flutter**. It displays current weather conditions for your location using real-time weather APIs.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🌍 Get weather updates for current location  
+- 📍 Auto-detect city name  
+- ☁️ Display temperature and weather condition  
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="360" alt="Minimal Weather App Screenshot" src="https://github.com/user-attachments/assets/fcb62838-8574-4402-8c9f-de43a622346e" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter (Dart)  
+- Weather API (OpenWeatherMap)
+
+## 📦 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/minimal_weather_app.git
